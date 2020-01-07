@@ -1,0 +1,342 @@
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_4\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_5\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\HealthApp_8\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_12\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_14\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_15\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_16\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_17\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_18\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_19\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_20\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_21\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_22\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_23\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_27\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\אוריה\Documents\לימודים תשעט\סמסטר ב\מערכות חלונות\HealthApp_29\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\obj\Debug\BL.pdb

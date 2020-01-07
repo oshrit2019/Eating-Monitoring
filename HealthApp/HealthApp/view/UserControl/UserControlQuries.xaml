@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="HealthApp.UserControlQuries"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HealthApp"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="760" Background="#FFFFFAFA">
+    <Grid x:Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="{Binding ImageUri, Mode=TwoWay}">
+            </ImageBrush>
+        </Grid.Background>
+
+        <TextBlock Text="Select food:" FontWeight="UltraBold" FontSize="20" Foreground="#0B0B61" FontFamily="Segoe Print" Margin="144,76,474,380" />
+        <local:UserControlAutoComplete HorizontalAlignment="Left" Height="40" Margin="322,74,0,0" Foreground="#0B0B61" ItemSelectedFood="{Binding DescriptionFood, Mode=OneWayToSource}" VerticalAlignment="Top" Width="304"/>
+        <ComboBox x:Name="filterAcoordingToTime" Foreground="#0B0B61" IsEditable="True" IsReadOnly="True" FontSize="17" Text="Select component" FontFamily="Segoe Print" HorizontalAlignment="Left" Margin="330,183,0,0" VerticalAlignment="Top" Width="292"  SelectedItem="{Binding Filter, Mode=TwoWay}" RenderTransformOrigin="0.4,0.758" Height="45">
+            <ComboBoxItem Content="Sugars" Background="#FFCFD6E4" Foreground="#0B0B61"  FontStyle="Italic" FontFamily="Segoe Print"  />
+            <ComboBoxItem Content="Energy" Background="#FFCFD6E4" Foreground="#0B0B61" FontStyle="Italic" FontFamily="Segoe Print"  />
+            <ComboBoxItem Content="Fats"  Background="#FFCFD6E4" Foreground="#0B0B61"  FontStyle="Italic" FontFamily="Segoe Print" />
+            <ComboBoxItem Content="Carbohydrate"  Background="#FFCFD6E4" Foreground="#0B0B61"  FontStyle="Italic" FontFamily="Segoe Print" />
+            <ComboBoxItem Content="Protien"  Background="#FFCFD6E4" Foreground="#0B0B61"  FontStyle="Italic" FontFamily="Segoe Print" />
+            <ComboBoxItem Content="Fiber"  Background="#FFCFD6E4" Foreground="#0B0B61"  FontStyle="Italic" FontFamily="Segoe Print" />
+            <ComboBoxItem Content="Vitamins"  Background="#FFCFD6E4" Foreground="#0B0B61" FontStyle="Italic" FontFamily="Segoe Print" />
+            <ComboBoxItem Content="Water"  Background="#FFCFD6E4"  FontStyle="Italic" FontFamily="Segoe Print" />
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" FontWeight="UltraBold" Foreground="#0B0B61" Margin="232,306,0,0" FontFamily="Segoe Print" FontSize="15" TextWrapping="Wrap" Text="{Binding Text, Mode=TwoWay}" VerticalAlignment="Top" Height="42" Width="303"/>
+        <TextBlock  FontWeight="UltraBold" Foreground="#B40404" Margin="132,376,130,30" FontFamily="Segoe Print" FontSize="15" TextWrapping="Wrap"  Text="{Binding TextRemarks, Mode=TwoWay}"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="46,364,0,0" VerticalAlignment="Top" Width="100" Source="{Binding Image2, Mode=TwoWay}"/>
+
+    </Grid>
+</UserControl>
