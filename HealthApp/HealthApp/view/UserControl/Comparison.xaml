@@ -8,7 +8,11 @@
              mc:Ignorable="d" 
               d:DesignHeight="580" d:DesignWidth="760" Background="#FFFFFAFA">
     <Grid >
-        <DVC:Chart InkCanvas.Top="80"  InkCanvas.Left="10"  Name="mcChart" Background="#FFB88E8E" Margin="50,65,86,55">
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/background.jpg">
+            </ImageBrush>
+        </Grid.Background>
+        <DVC:Chart InkCanvas.Top="80"  InkCanvas.Left="10"  Name="mcChart"  Margin="50,65,86,55">
             <DVC:Chart.Series  >
                 <DVC:PieSeries Title="PieCompresion" ItemsSource="{Binding PieCollection}" IndependentValueBinding="{Binding Path=Key}" DependentValueBinding="{Binding Path=Value}" Margin="10,10,9,10">
                 </DVC:PieSeries>

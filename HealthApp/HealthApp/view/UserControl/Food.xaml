@@ -14,27 +14,31 @@
 
 
     <Grid x:Name="MainGrid"  Margin="0,-4,0,4">
-        <TextBlock Name="TextBreakfast" Text="Breakfast" Foreground="#0B0B61" FontWeight="UltraBold" HorizontalAlignment="Left" Margin="24,70,0,0" VerticalAlignment="Top" Height="41" Width="79" FontSize="15" FontFamily="Segoe Print"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/background.jpg">
+            </ImageBrush>
+        </Grid.Background>
+        <TextBlock x:Name="TextBreakfast" Foreground="White" FontWeight="UltraBold" HorizontalAlignment="Left" Margin="24,70,0,0" VerticalAlignment="Top" Height="41" Width="79" FontSize="15" FontFamily="Segoe Print"><Run Foreground="#FFEAEAF3" Text="Breakfast"/></TextBlock>
         <Image Height="30" Margin="108,60,604,400" Source="/images/breakfast1.jpg" RenderTransformOrigin="-6.306,-5.063"/>
-        <TextBlock  Name="TextLunch" Text="Lunch"  Foreground="#0B0B61" FontWeight="UltraBold" HorizontalAlignment="Left" Margin="24,172,0,0" VerticalAlignment="Top" Height="41" Width="50" FontSize="15" FontFamily="Segoe Print"/>
-        <Image Height="30" Margin="78,165,632,305" Source="/images/lunch1.jpg" RenderTransformOrigin="-6.306,-5.063"/>
-        <TextBlock Name="TextDinner" Text="Dinner" Foreground="#0B0B61" FontWeight="UltraBold" HorizontalAlignment="Left"   Margin="24,274,0,0" VerticalAlignment="Top" Height="41" Width="63" FontSize="15" FontFamily="Segoe Print"/>
+        <TextBlock  Name="TextLunch" Text="Lunch"  Foreground="#FFEDEDF3" FontWeight="UltraBold" HorizontalAlignment="Left" Margin="24,173,0,0" VerticalAlignment="Top" Height="41" Width="50" FontSize="15" FontFamily="Segoe Print"/>
+        <Image Height="30" Margin="78,174,632,296" Source="/images/lunch1.jpg" RenderTransformOrigin="-6.306,-5.063"/>
+        <TextBlock x:Name="TextDinner" Foreground="White" FontWeight="UltraBold" HorizontalAlignment="Left"   Margin="24,274,0,0" VerticalAlignment="Top" Height="41" Width="63" FontSize="15" FontFamily="Segoe Print"><Run Foreground="#FFF2F2F9" Text="Dinner"/></TextBlock>
         <Image Height="30" Margin="84,269,628,201" Source="/images/dinner.jpeg" RenderTransformOrigin="-6.306,-5.063"/>
-        <TextBlock Name="TextSnack" Text="Snack" Foreground="#0B0B61" FontWeight="UltraBold" HorizontalAlignment="Left"   Margin="24,377,0,0" VerticalAlignment="Top" Height="41" Width="58" FontSize="15" FontFamily="Segoe Print"/>
+        <TextBlock x:Name="TextSnack" Foreground="White" FontWeight="UltraBold" HorizontalAlignment="Left"   Margin="24,377,0,0" VerticalAlignment="Top" Height="41" Width="58" FontSize="15" FontFamily="Segoe Print"><Run Foreground="#FFF3F3F7" Text="Snack"/></TextBlock>
         <Image Height="30" Margin="81,371,631,99" Source="/images/snack.jpg" RenderTransformOrigin="-6.306,-5.063"/>
-        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="#0B0B61" x:Name="Snack"   ItemSelectedFood="{Binding DescriptionSnack, Mode=OneWayToSource}"  Height="36"  Margin="539,377,0,0" VerticalAlignment="Top" Width="184"  />
-        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="#0B0B61" x:Name="Dinner"  ItemSelectedFood="{Binding DescriptionDinner, Mode=OneWayToSource}" Height="36"  Margin="539,274,0,0" VerticalAlignment="Top" Width="184"   />
-        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="#0B0B61" x:Name="Lunch" ItemSelectedFood="{Binding DescriptionLunch, Mode=OneWayToSource}" Height="36" Margin="539,172,0,0" VerticalAlignment="Top" Width="184" />
-        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="#0B0B61" ItemSelectedFood="{Binding DescriptionBreakfast, Mode=OneWayToSource}"  x:Name="Breakfast" Height="36" Margin="539,70,0,0" VerticalAlignment="Top" Width="184"/>
+        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="Black" x:Name="Snack"   ItemSelectedFood="{Binding DescriptionSnack, Mode=OneWayToSource}"  Height="36"  Margin="539,377,0,0" VerticalAlignment="Top" Width="184"  />
+        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="Black" x:Name="Dinner"  ItemSelectedFood="{Binding DescriptionDinner, Mode=OneWayToSource}" Height="36"  Margin="539,274,0,0" VerticalAlignment="Top" Width="184"   />
+        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="Black" x:Name="Lunch" ItemSelectedFood="{Binding DescriptionLunch, Mode=OneWayToSource}" Height="36" Margin="539,172,0,0" VerticalAlignment="Top" Width="184" />
+        <local:UserControlAutoComplete HorizontalAlignment="Left" Foreground="Black" ItemSelectedFood="{Binding DescriptionBreakfast, Mode=OneWayToSource}"  x:Name="Breakfast" Height="36" Margin="539,70,0,0" VerticalAlignment="Top" Width="184"/>
 
 
-        <ListBox ItemsSource="{Binding FoodsBreakfast}" Foreground="#0B0B61" Name="BreakfastList" Background="#FFB88E8E" HorizontalAlignment="Left" Height="58" Margin="26,110,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print"  >
+        <ListBox ItemsSource="{Binding FoodsBreakfast}"  BorderBrush="Black" HorizontalAlignment="Left" Height="58" Margin="26,110,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print" >
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal"  Height="40" Width="704" RenderTransformOrigin="22.335,0.274">
                         <Image Height="30" Width="30" Source="/images/logoToList.png"></Image>
-                        <TextBlock Name="Description" Foreground="#0B0B61" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
-                        <Button Content="+" Foreground="#0B0B61" Width="35" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
+                        <TextBlock Name="Description" Foreground="White" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
+                        <Button Content="+" Foreground="White" Width="35" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextBreakfast" />
@@ -43,8 +47,8 @@
                                 </MultiBinding>
                             </Button.CommandParameter>
                         </Button>
-                        <TextBlock Text="{Binding Amount}" Foreground="#0B0B61" Padding="6" Width="20" Height="25" FontSize="10"/>
-                        <Button Content="-" Foreground="#0B0B61" Width="35" Height="35" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
+                        <TextBlock Text="{Binding Amount}" Foreground="White" Padding="6" Width="20" Height="25" FontSize="10"/>
+                        <Button Content="-" Foreground="White" Width="35" Height="35" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextBreakfast" />
@@ -60,13 +64,13 @@
             </ListBox.ItemTemplate>
 
         </ListBox>
-        <ListBox ItemsSource="{Binding FoodsLunch}" Foreground="#0B0B61" Name="LunchList" Background="#FFB88E8E" HorizontalAlignment="Left" Height="58" Margin="26,212,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print">
+        <ListBox ItemsSource="{Binding FoodsLunch}"  Name="LunchList" BorderBrush="Black" HorizontalAlignment="Left" Height="58" Margin="26,212,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print">
             <ListBox.ItemTemplate >
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal"  Height="40" Width="704" RenderTransformOrigin="22.335,0.274">
                         <Image Height="30" Width="30"  Source="/images/logoToList.png"></Image>
-                        <TextBlock Name="Description" Foreground="#0B0B61" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
-                        <Button Content="+" Width="35" Foreground="#0B0B61" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
+                        <TextBlock Name="Description" Foreground="White" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
+                        <Button Content="+" Width="35" Foreground="White" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextLunch" />
@@ -75,8 +79,8 @@
                                 </MultiBinding>
                             </Button.CommandParameter>
                         </Button>
-                        <TextBlock Text="{Binding Amount}" Foreground="#0B0B61" Padding="6" Width="20" Height="25" FontSize="10"/>
-                        <Button Content="-" Width="35" Foreground="#0B0B61" Height="35" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
+                        <TextBlock Text="{Binding Amount}" Foreground="White" Padding="6" Width="20" Height="25" FontSize="10"/>
+                        <Button Content="-" Width="35" Foreground="White" Height="35" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextLunch" />
@@ -90,13 +94,13 @@
             </ListBox.ItemTemplate>
 
         </ListBox>
-        <ListBox x:Name="DinnerList" Foreground="#0B0B61" ItemsSource="{Binding FoodsDinner}"  Background="#FFB88E8E" HorizontalAlignment="Left" Height="60" Margin="26,314,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print">
+        <ListBox x:Name="DinnerList"  ItemsSource="{Binding FoodsDinner}"  BorderBrush="Black" HorizontalAlignment="Left" Height="60" Margin="26,314,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal"   Height="40" Width="704" RenderTransformOrigin="22.335,0.274">
                         <Image Height="30" Width="30"  Source="/images/logoToList.png"></Image>
-                        <TextBlock Name="Description" Foreground="#0B0B61" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
-                        <Button Content="+" Width="35" Foreground="#0B0B61" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
+                        <TextBlock Name="Description" Foreground="White" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
+                        <Button Content="+" Width="35" Foreground="White" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextSnack" />
@@ -105,8 +109,8 @@
                                 </MultiBinding>
                             </Button.CommandParameter>
                         </Button>
-                        <TextBlock Text="{Binding Amount}" Foreground="#0B0B61" Padding="6" Width="20" Height="25" FontSize="10"/>
-                        <Button Content="-" Width="35" Height="35" Foreground="#0B0B61" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
+                        <TextBlock Text="{Binding Amount}" Foreground="White" Padding="6" Width="20" Height="25" FontSize="10"/>
+                        <Button Content="-" Width="35" Height="35" Foreground="White" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextSnack" />
@@ -120,13 +124,13 @@
             </ListBox.ItemTemplate>
 
         </ListBox>
-        <ListBox x:Name="SnaclList" ItemsSource="{Binding FoodsSnack}" Foreground="#0B0B61" Background="#FFB88E8E" HorizontalAlignment="Left" Height="60" Margin="26,415,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print" >
+        <ListBox x:Name="SnaclList" ItemsSource="{Binding FoodsSnack}" BorderBrush="Black"  HorizontalAlignment="Left" Height="60" Margin="26,415,0,0" VerticalAlignment="Top" Width="704" FontFamily="Segoe Print" >
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal"  Height="40" Width="704" RenderTransformOrigin="22.335,0.274">
                         <Image Height="30" Width="30" Source="/images/logoToList.png"></Image>
-                        <TextBlock Name="Description" Foreground="#0B0B61" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
-                        <Button Content="+" Width="35" Foreground="#0B0B61" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
+                        <TextBlock Name="Description" Foreground="White" Text="{Binding Description}" Width="550" Height="25" FontSize="10"/>
+                        <Button Content="+" Width="35" Foreground="White" Height="35" Command="{Binding DataContext.AddAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextDinner" />
@@ -135,8 +139,8 @@
                                 </MultiBinding>
                             </Button.CommandParameter>
                         </Button>
-                        <TextBlock Text="{Binding Amount}" Foreground="#0B0B61" Padding="6" Width="20" Height="25" FontSize="10"/>
-                        <Button Content="-" Width="35" Foreground="#0B0B61" Height="35" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
+                        <TextBlock Text="{Binding Amount}" Foreground="White" Padding="6" Width="20" Height="25" FontSize="10"/>
+                        <Button Content="-" Width="35" Foreground="White" Height="35" Command="{Binding  DataContext.MinusAmount, ElementName=MainGrid}">
                             <Button.CommandParameter>
                                 <MultiBinding Converter="{StaticResource filedToFoodConverter}">
                                     <Binding Path="Text" ElementName="TextDinner" />
@@ -149,6 +153,6 @@
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        <DatePicker Name="Date" Foreground="#0B0B61" SelectedDateChanged="DatePicker_SelectedDateChanged"  HorizontalAlignment="Left" Text="{Binding Date , Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, ValidatesOnDataErrors=True}" Height="32" Margin="554,15,0,0" VerticalAlignment="Top" Width="172" RenderTransformOrigin="0.646,0.375" FontFamily="Segoe Print" FontSize="12"/>
+        <DatePicker Name="Date" Foreground="White" SelectedDateChanged="DatePicker_SelectedDateChanged"  HorizontalAlignment="Left" Text="{Binding Date , Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true, ValidatesOnDataErrors=True}" Height="32" Margin="554,15,0,0" VerticalAlignment="Top" Width="172" RenderTransformOrigin="0.646,0.375" FontFamily="Segoe Print" FontSize="12"/>
     </Grid>
 </UserControl>

@@ -9,6 +9,13 @@ using System.Xml;
 using System.Net;
 using System.IO;
 using System.Xml.Linq;
+using RestSharp;
+using System.Json;
+using JsonObject = System.Json.JsonObject;
+using ServiceStack.Text;
+using Nancy.Json.Simple;
+using Newtonsoft.Json.Linq;
+using System.Data.Entity.Core.Metadata.Edm;
 
 namespace DAL
 {
@@ -39,19 +46,14 @@ namespace DAL
         /// <returns></returns>
         public List<String> GetAllFood(String xml)
         {
+            JObject details = JObject.Parse(xml);
+            List < JObject > foods1 = details["foods"].ToObject<List<JObject>>();
+               
             XmlDocument xDoc = new XmlDocument();
             List<String> foods = new List<string>();
-            xDoc.LoadXml(xml);
-            XmlElement root = xDoc.DocumentElement;
-            XmlNodeList nodes = root.SelectNodes("item");
-            foreach (XmlNode node in nodes)//go over nodes in root elements
+            foreach (JObject item in foods1)
             {
-                foreach (XmlNode node1 in node)//go over On the features in the node
-                {
-                    if (node1.Name == "name")
-                        foods.Add(node1.FirstChild.Value);
-                }
-
+                foods.Add(item["description"].ToString());
             }
             return foods;
         }
@@ -62,7 +64,7 @@ namespace DAL
         /// <returns></returns>
         public String XmlFood(String text)
         {
-            String address = "https://api.nal.usda.gov/ndb/search/?format=xml&q=" + text + "&max=25&offset=0&api_key=Aq5HAlCn1ppChgTrk0znY06iPEaMefa4Ps9czSEa";
+            String address = "https://api.nal.usda.gov/fdc/v1/foods/search?api_key=qQSwzmN3AxhmXRcuzavIx0RYOIrhR1utDhsafXCb&query=" + text;// + "&max=25&offset=0&api_key=qQSwzmN3AxhmXRcuzavIx0RYOIrhR1utDhsafXCb";
             WebRequest requst = WebRequest.Create(address);
             requst.Method = "GET";
             WebResponse response = requst.GetResponse();
@@ -79,28 +81,14 @@ namespace DAL
         /// <returns></returns>
         public String GetKeyOfFood(String xml, String food)
         {
-            XmlDocument xDoc = new XmlDocument();
-            bool flag = false;
-            xDoc.LoadXml(xml);
-            XmlElement root = xDoc.DocumentElement;
-            XmlNodeList nodes = root.SelectNodes("item");
-            foreach (XmlNode node in nodes)//go over nodes in root elements
+            JObject details = JObject.Parse(xml);
+            List<JObject> foods1 = details["foods"].ToObject<List<JObject>>();
+            foreach (JObject item in foods1)
             {
-                foreach (XmlNode node1 in node)//go over On the features in the node
+                if (item["description"].ToString() == food)
                 {
-                    if (node1.Name == "name")
-                    {
-                        if (node1.FirstChild.Value == food)
-                        {
-                            flag = true;
-                        }
-                    }
-                    if (node1.Name == "ndbno" && flag)
-                    {
-                        return node1.FirstChild.Value;
-                    }
+                    return item["fdcId"].ToString();
                 }
-
             }
             return null;
         }
@@ -111,7 +99,7 @@ namespace DAL
         /// <returns></returns>
         public String XmlProduct(String key)
         {
-            String address = "https://api.nal.usda.gov/ndb/reports/?ndbno=" + key + "&type=b&format=xml&api_key=Aq5HAlCn1ppChgTrk0znY06iPEaMefa4Ps9czSEa";
+            String address = @"https://api.nal.usda.gov/fdc/v1/food/"+key+@"?api_key=qQSwzmN3AxhmXRcuzavIx0RYOIrhR1utDhsafXCb";
             WebRequest requst = WebRequest.Create(address);
             requst.Method = "GET";
             WebResponse response = requst.GetResponse();
@@ -128,67 +116,106 @@ namespace DAL
         /// <returns></returns>
         public Component ReturnComponent(String key, int amount )
         {
+
             String xml = XmlProduct(key);
-            XmlDocument xDoc = new XmlDocument();
-            xDoc.LoadXml(xml);
-            XmlNodeList nutrientsList = xDoc.SelectNodes("/report/food/nutrients/nutrient");
+            JObject details = JObject.Parse(xml);
+            JObject foods1 = JObject.Parse(details["labelNutrients"].ToString());
             BE.Component component = new Component();
             component.ndbo = key;
-            float vitamins = 0;
-            String name = "";
-            String value = "";
-            //go over all nutrients List
-            for (int i = 0; i < nutrientsList.Count; i++)
-            {
+            JObject comp = JObject.Parse(foods1["fat"].ToString());
+            float x1 = float.Parse(comp["value"].ToString());
+            component.Fats =x1*amount;
+            comp = JObject.Parse(foods1["fiber"].ToString());
+             x1 = float.Parse(comp["value"].ToString());
+            component.Fiber = x1 * amount;
 
-                foreach (var item in (nutrientsList[i]).Attributes)//go over the attributes of the current nutrient
-                {
-                    if ((((XmlAttribute)item).Name).Equals("name"))//save the name
-                    {
-                        name = (((XmlAttribute)item).Value);
+            comp = JObject.Parse(foods1["carbohydrates"].ToString());
+            x1 = float.Parse(comp["value"].ToString());
+            component.Carbohydrate = x1 * amount;
+            comp = JObject.Parse(foods1["sugars"].ToString());
+            x1 = float.Parse(comp["value"].ToString());
+            component.Sugar = x1 * amount;
 
-                    }
-                    if ((((XmlAttribute)item).Name).Equals("value"))//save the value
-                    {
-                        value = (((XmlAttribute)item).Value);
-                    }
-                    if ((((XmlAttribute)item).Name).Equals("group") && (((XmlAttribute)item).Value).Equals("Vitamins")) //if the nutrient is any vitamin save to name vitamin  
-                    {
-                        name = "Vitamins";
-                    }
-                }
-                //insert to component
-                switch (name)
-                {
-                    case "Energy":
-                        component.Energy = float.Parse(value)*amount;
-                        break;
-                    case "Water":
-                        component.Water = float.Parse(value)*amount;
-                        break;
-                    case "Protein":
-                        component.Protien = float.Parse(value)*amount;
-                        break;
-                    case "Total lipid (fat)":
-                        component.Fats = float.Parse(value)*amount;
-                        break;
-                    case "Fiber, total dietary":
-                        component.Fiber = float.Parse(value);
-                        break;
-                    case "Carbohydrate, by difference":
-                        component.Carbohydrate = float.Parse(value)*amount;
-                        break;
-                    case "Sugars, total":
-                        component.Sugar = float.Parse(value)*amount;
-                        break;
-                    case "Vitamins":
-                        vitamins += float.Parse(value) * amount; //all vitamins together
-                        break;
-                    default:
-                        break;
-                }
-            }
-            component.Vitamins = vitamins;
+            comp = JObject.Parse(foods1["protein"].ToString());
+            x1 = float.Parse(comp["value"].ToString());
+            component.Protien = x1 * amount;
+
+            comp = JObject.Parse(foods1["cholesterol"].ToString());
+            x1 = float.Parse(comp["value"].ToString());
+            component.Cholesterol = x1 * amount;
+
+            comp = JObject.Parse(foods1["iron"].ToString());
+            x1 = float.Parse(comp["value"].ToString());
+            component.Iron = x1 * amount;
+
+            //string name1 = details["description"].ToString();
+
+            //string name1 = foods1[x].ToString();
+            // JObject name1 = JObject.Parse(foods1[details["description"].ToString()]);
+            /*   foreach(JObject item in foods1)
+               {
+                  // if(item[""])
+               }*/
+            //labelNutrients
+            /* XmlDocument xDoc = new XmlDocument();
+             xDoc.LoadXml(xml);
+             XmlNodeList nutrientsList = xDoc.SelectNodes("/report/food/nutrients/nutrient");
+
+             float vitamins = 0;
+             String name = "";
+             String value = "";
+             //go over all nutrients List
+             for (int i = 0; i < nutrientsList.Count; i++)
+             {
+
+                 foreach (var item in (nutrientsList[i]).Attributes)//go over the attributes of the current nutrient
+                 {
+                     if ((((XmlAttribute)item).Name).Equals("name"))//save the name
+                     {
+                         name = (((XmlAttribute)item).Value);
+
+                     }
+                     if ((((XmlAttribute)item).Name).Equals("value"))//save the value
+                     {
+                         value = (((XmlAttribute)item).Value);
+                     }
+                     if ((((XmlAttribute)item).Name).Equals("group") && (((XmlAttribute)item).Value).Equals("Vitamins")) //if the nutrient is any vitamin save to name vitamin  
+                     {
+                         name = "Vitamins";
+                     }
+                 }
+                 //insert to component
+                 switch (name)
+                 {
+                     case "Energy":
+                         component.Energy = float.Parse(value)*amount;
+                         break;
+                     case "Water":
+                         component.Water = float.Parse(value)*amount;
+                         break;
+                     case "Protein":
+                         component.Protien = float.Parse(value)*amount;
+                         break;
+                     case "Total lipid (fat)":
+                         component.Fats = float.Parse(value)*amount;
+                         break;
+                     case "Fiber, total dietary":
+                         component.Fiber = float.Parse(value);
+                         break;
+                     case "Carbohydrate, by difference":
+                         component.Carbohydrate = float.Parse(value)*amount;
+                         break;
+                     case "Sugars, total":
+                         component.Sugar = float.Parse(value)*amount;
+                         break;
+                     case "Vitamins":
+                         vitamins += float.Parse(value) * amount; //all vitamins together
+                         break;
+                     default:
+                         break;
+                 }
+             }
+             component.Vitamins = vitamins;*/
             return component;
         }
         /// <summary>
@@ -214,13 +241,13 @@ namespace DAL
                             c1 = ReturnComponent(item.ndbo,int.Parse(item.Amount));
                             c.ndbo = c1.ndbo;
                             c.Carbohydrate += c1.Carbohydrate;
-                            c.Energy += c1.Energy;
+                            //c.Energy += c1.Energy;
                             c.Fats += c1.Fats;
                             c.Fiber += c1.Fiber;
                             c.Protien += c1.Protien;
                             c.Sugar += c1.Sugar;
-                            c.Vitamins += c1.Vitamins;
-                            c.Water += c1.Water;
+                            c.Iron += c1.Iron;
+                            c.Cholesterol += c1.Cholesterol;
                         }
                     }
                 }
@@ -237,13 +264,13 @@ namespace DAL
                         c1 = ReturnComponent(item.ndbo, int.Parse(item.Amount));
                         c.ndbo = c1.ndbo;
                         c.Carbohydrate += c1.Carbohydrate;
-                        c.Energy += c1.Energy;
+                        //c.Energy += c1.Energy;
                         c.Fats += c1.Fats;
                         c.Fiber += c1.Fiber;
                         c.Protien += c1.Protien;
                         c.Sugar += c1.Sugar;
-                        c.Vitamins += c1.Vitamins;
-                        c.Water += c1.Water;
+                        c.Cholesterol += c1.Cholesterol;
+                        c.Iron += c1.Iron;
                     }
                 }
 
@@ -269,13 +296,13 @@ namespace DAL
                         c1 = ReturnComponent(item.ndbo, int.Parse(item.Amount));
                         c.ndbo = c1.ndbo;
                         c.Carbohydrate += c1.Carbohydrate;
-                        c.Energy += c1.Energy;
+                       // c.Energy += c1.Energy;
                         c.Fats += c1.Fats;
                         c.Fiber += c1.Fiber;
                         c.Protien += c1.Protien;
                         c.Sugar += c1.Sugar;
-                        c.Vitamins += c1.Vitamins;
-                        c.Water += c1.Water;
+                        c.Cholesterol += c1.Cholesterol;
+                        c.Iron += c1.Iron;
                     }
                 }
 
@@ -292,13 +319,13 @@ namespace DAL
                         c1 = ReturnComponent(item.ndbo, int.Parse(item.Amount));
                         c.ndbo = c1.ndbo;
                         c.Carbohydrate += c1.Carbohydrate;
-                        c.Energy += c1.Energy;
+                        c.Iron += c1.Iron;
                         c.Fats += c1.Fats;
                         c.Fiber += c1.Fiber;
                         c.Protien += c1.Protien;
                         c.Sugar += c1.Sugar;
-                        c.Vitamins += c1.Vitamins;
-                        c.Water += c1.Water;
+                        c.Cholesterol += c1.Cholesterol;
+                       // c.Water += c1.Water;
                     }
                 }
 

@@ -61,14 +61,14 @@ namespace HealthApp.viewModel
             BE.Component c = new BE.Component();
             c = model.SumOfComponents(Id, DateTime.Now, time);
             //change  data in pie according to time and Id
-            PieCollection.Add(new KeyValuePair<string, float>("Energy", c.Energy));
+            PieCollection.Add(new KeyValuePair<string, float>("Energy", c.Iron));
             PieCollection.Add(new KeyValuePair<string, float>("Sugar", c.Sugar));
             PieCollection.Add(new KeyValuePair<string, float>("Fats", c.Fats));
             PieCollection.Add(new KeyValuePair<string, float>("Carbohydrate", c.Carbohydrate));
-            PieCollection.Add(new KeyValuePair<string, float>("Vitamins", c.Vitamins));
+            PieCollection.Add(new KeyValuePair<string, float>("Vitamins", c.Cholesterol));
             PieCollection.Add(new KeyValuePair<string, float>("Protien", c.Protien));
             PieCollection.Add(new KeyValuePair<string, float>("Fiber", c.Fiber));
-            PieCollection.Add(new KeyValuePair<string, float>("Water", c.Water));
+            //PieCollection.Add(new KeyValuePair<string, float>("Water", c.Water));
         }
     }
 }

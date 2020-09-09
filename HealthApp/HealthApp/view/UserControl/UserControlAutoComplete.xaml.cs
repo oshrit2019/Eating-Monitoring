@@ -65,8 +65,10 @@ namespace HealthApp
                     Action<List<String>> action = setListInvok;//point to function
                     Dispatcher.BeginInvoke(action, new object[] { result }); //The dispatcher wants to use BeginInvok to perform an action function
                 }
-                catch (Exception)
-                { }
+                catch (Exception  ex)
+                {
+                    Console.WriteLine(ex);
+                }
             }
         }
         /// <summary>

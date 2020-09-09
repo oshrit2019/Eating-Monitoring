@@ -7,14 +7,10 @@
               xmlns:local1="clr-namespace:HealthApp.converter"
              mc:Ignorable="d"
              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-            d:DesignHeight="580" d:DesignWidth="760" Background="#FFFFFAFA">
+            d:DesignHeight="580" d:DesignWidth="760" >
     <UserControl.Resources>
         <local1:FiledRegisterConvertToUser x:Key="filedRegisterConvertToUser"></local1:FiledRegisterConvertToUser>
         <Style  TargetType="{x:Type Button}" x:Key="buttonStyle">
-            <Setter Property="Background"
-              Value="#FFFAF0E6" />
-            <Setter Property="Foreground"
-              Value="Black" />
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="Button">
@@ -30,16 +26,11 @@
 
     </UserControl.Resources>
     <Grid>
-        <Rectangle Height="580" VerticalAlignment="Top">
-            <Rectangle.Fill>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="#F5D0A9"/>
-                    <GradientStop Color="#F78181" Offset="3"/>
-                    <GradientStop Color="#FAAC58" Offset="3"/>
-                </LinearGradientBrush>
-            </Rectangle.Fill>
-        </Rectangle>
-        <Grid HorizontalAlignment="Left" Height="396" Margin="113,65,0,0" VerticalAlignment="Top" Width="439" RenderTransformOrigin="0.5,0.5">
+        <Grid.Background>
+            <ImageBrush ImageSource="/images/background.jpg">
+            </ImageBrush>
+        </Grid.Background>
+        <Grid HorizontalAlignment="Left" Height="396" Margin="150,100,0,0" VerticalAlignment="Top" Width="439" RenderTransformOrigin="0.5,0.5">
             <Grid.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -110,11 +101,6 @@
         <Label Content="*" Foreground="Red" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,99,0,0" Width="15"/>
         <Label Content="*" Foreground="Red" HorizontalAlignment="Left" Margin="92,248,0,0" VerticalAlignment="Top" Width="15"/>
         <Label Content="*" Foreground="Red" HorizontalAlignment="Left" Margin="336,242,0,0" VerticalAlignment="Top" Width="15"/>
-        <Image HorizontalAlignment="Left" Height="66" VerticalAlignment="Top" Width="114" Source="/images/bread.png" Margin="570,85,0,0"/>
-        <Image HorizontalAlignment="Left" Height="71" Margin="640,130,0,0" VerticalAlignment="Top" Width="79" Source="/images/egg.png"/>
-        <Image HorizontalAlignment="Left" Height="133" Margin="614,295,0,0" VerticalAlignment="Top" Width="131" Source="/images/בשר.png"/>
-        <Image HorizontalAlignment="Left" Height="72" Margin="557,380,0,0" VerticalAlignment="Top" Width="100" Source="/images/פירות יער.png" RenderTransformOrigin="0.515,0.333"/>
-        <Image HorizontalAlignment="Left" Height="128" Margin="593,191,0,0" VerticalAlignment="Top" Width="123" Source="/images/אננס2.png"/>
-
+       
     </Grid>
 </UserControl>

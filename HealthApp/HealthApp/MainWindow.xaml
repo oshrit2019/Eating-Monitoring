@@ -78,16 +78,15 @@
 
     <Grid Name="Continer" >
         <Grid.Background>
-            <ImageBrush ImageSource="/images/peopleRun.jpg">
+            <ImageBrush ImageSource="/images/background.jpg">
             </ImageBrush>
         </Grid.Background>
 
-        <TextBlock Height="68" HorizontalAlignment="Left" Margin="195,24,0,0" Name="LoginHeading" Text="Welcome to the health app" VerticalAlignment="Top" FontSize="29" FontFamily="Segoe Print" FontStretch="ExtraCondensed" Width="420"/>
-        <TextBlock Height="30" HorizontalAlignment="Left" Margin="127,156,0,0" Name="textBlock1" Text="ID" VerticalAlignment="Top" Width="67" FontSize="20" />
-        <TextBlock Height="30" HorizontalAlignment="Left" Margin="115,225,0,0" Name="textBlock2" Text="Password" VerticalAlignment="Top" Width="100" FontSize="20" />
-        <TextBox Height="35" MaxLength="9" HorizontalAlignment="Left" Margin="279,156,0,0" Name="textBoxEmail" VerticalAlignment="Top" Width="247"  />
-        <PasswordBox Height="35" MaxLength="10" HorizontalAlignment="Left" Margin="277,225,0,0" Name="passwordBox" VerticalAlignment="Top" Width="247" />
-        <Button  Content="Login" Height="51" HorizontalAlignment="Left" Command="{Binding Login}" Margin="530,305,0,0" Name="button1" VerticalAlignment="Top" Width="119" >
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="220,220,0,0" Name="textBlock1" Text="ID" VerticalAlignment="Top" Width="67" FontSize="20"  />
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="180,270,0,0" Name="textBlock2" Text="Password" VerticalAlignment="Top" Width="100" FontSize="20" />
+        <TextBox Height="35" MaxLength="9" HorizontalAlignment="Left" Margin="279,220,0,0" Name="textBoxEmail" VerticalAlignment="Top" Width="247"  />
+        <PasswordBox Height="35" MaxLength="10" HorizontalAlignment="Left" Margin="277,270,0,0" Name="passwordBox" VerticalAlignment="Top" Width="247" />
+        <Button  Content="Login" Height="51" HorizontalAlignment="Left" Command="{Binding Login}" Margin="530,360,0,0" Name="button1" VerticalAlignment="Top" Width="119" >
             <Button.CommandParameter>
                 <MultiBinding Converter="{StaticResource filedLoginConverter}">
                     <Binding Path="Text" ElementName="textBoxEmail" />
@@ -95,7 +94,7 @@
                 </MultiBinding>
             </Button.CommandParameter>
         </Button>
-        <TextBlock Height="23" HorizontalAlignment="Left" Margin="460,214,0,242" > 
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="280,310,0,242" > 
                  <Hyperlink  FontSize="14" FontStyle="Normal" Command="{Binding Register}">Register</Hyperlink>
         </TextBlock>
         <UserControl Content="{Binding UserControl}" />

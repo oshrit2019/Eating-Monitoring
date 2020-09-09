@@ -93,17 +93,17 @@ namespace HealthApp.viewModel
             //action that doing according to component that choose
             switch (compomnent)
             {
-                case "Energy":
-                    Text = "The amount of energy is " + c.Energy;
+                case "Iron":
+                    Text = "The amount of Iron is " + c.Iron;
                     ImageUri = "/images/אנרגיה.jpg";
-                    TextRemarks = "If you have burned calories during the day, energy supplementation should be appropriate.";
+                    TextRemarks = "....";
                     Image2 = "/images/סימןשאלה.png";
 
                     break;
-                case "Water":
-                    Text = "The amount of water is " + c.Water;
+                case "Cholesterol":
+                    Text = "The amount of Cholesterol is " + c.Cholesterol;
                     ImageUri = "/images/מים1.jpg";
-                    TextRemarks = "Water is important for the body and the most basic.";
+                    TextRemarks = "......";
                     Image2 = "/images/סימןשאלה.png";
                     break;
                 case "Protien":
@@ -140,12 +140,12 @@ namespace HealthApp.viewModel
                     Image2 = "/images/סימןשאלה.png";
 
                     break;
-                case "Vitamins":
+                /*case "Vitamins":
                     Text = "The amount of Vitamins is " + c.Vitamins;
                     ImageUri = "/images/ויטמינים1.jpg";
                     TextRemarks = "Vitamins are essential for preventing diseases such as anemia, and reducing the risk of contracting diseases such as cancer and heart disease. Many of the vitamins are antioxidants.";
                     Image2 = "/images/סימןשאלה.png";
-
+                    */
                     break;
                 default:
                     Text = "";

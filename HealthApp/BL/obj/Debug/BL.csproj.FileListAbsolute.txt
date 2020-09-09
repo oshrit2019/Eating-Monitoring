@@ -340,3 +340,27 @@ C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healt
 C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
 C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\obj\Debug\BL.dll
 C:\Users\owner\Desktop\לימודים\שנה ג\סמסטר ב\חלונות\healthApp\HealthApp_30\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\BE.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\DAL.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\MaterialDesignColors.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\BE.pdb
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\BE.dll.config
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\DAL.dll.config
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\obj\Debug\BL.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\obj\Debug\BL.pdb
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\System.Json.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\System.Json.xml
+C:\Users\owner\Desktop\לימודים\GITHUB\oshrit2019-Eating-Monitoring\HealthApp\BL\bin\Debug\Newtonsoft.Json.xml

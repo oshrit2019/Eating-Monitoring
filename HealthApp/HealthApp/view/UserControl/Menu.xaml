@@ -40,7 +40,7 @@
             <Button Content="Queries" Foreground="#0B0B61"  Command="{Binding Query}" VerticalAlignment="Top" Width="220" Height="46"  />
 
         </StackPanel>
-        <Image Source="/images/fruit2.jpg" Margin="0,51,0,0" ></Image>
+        <Image Source="/images/background.jpg" Margin="0,51,0,0" ></Image>
         <UserControl Margin="0,50,0,0" Content="{Binding UserControl}"/>
 
 
